@@ -76,9 +76,9 @@ This app is primarily designed for Android due to the use of android_alarm_manag
 4. The timer will continue running in the background, and you'll receive a notification when it completes.
 
 ## Dependencies
-android_alarm_manager_plus: ^3.0.1
-flutter_local_notifications: ^15.1.0+1
-permission_handler: ^11.3.1
+- [android_alarm_manager_plus](https://pub.dev/packages/android_alarm_manager_plus): ^3.0.1
+- [flutter_local_notifications](https://pub.dev/packages/flutter_local_notifications): ^15.1.0+1
+- [permission_handler](https://pub.dev/packages/permission_handler): ^11.3.1
 
 ## Contributing
 Contributions to this project are welcome. Please feel free to fork the repository and submit pull requests.
